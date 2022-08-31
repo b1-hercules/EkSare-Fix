@@ -37,7 +37,7 @@ gem 'devise', '~> 4.3.0'
 
 gem 'toastr-rails', '~>1.0.3'
 
-gem 'omniauth', '~> 1.7', '>= 1.7.1'
+gem 'omniauth', '~> 1.9'
 gem 'omniauth-facebook', '~> 4.0'
 
 gem 'paperclip', '~> 5.1.0'
